@@ -15,3 +15,15 @@
 
   </p>
 </details>
+
+- [x] **VCS (hello gitty), GitHub and Collaboration**
+
+[learngitbranching.js.org](https://learngitbranching.js.org/?locale=uk)  
+
+<details><summary>Screenshot</summary>
+  <p>
+
+  ![Screenshot-image-link](./task_git_collaboration/git.jpg)
+
+  </p>
+</details>
