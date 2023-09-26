@@ -24,6 +24,7 @@
   <p>
 
   ![Screenshot-image-link](./task_git_collaboration/git.jpg)
+  ![Screenshot-image-link](./task_git_collaboration/repo.jpg)
 
   </p>
 </details>
